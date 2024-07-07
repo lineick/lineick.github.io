@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Linus Eickhoff # the main title
 
-tagline: Philosophically driven with interests in STEM # it will display as the sub-title
+tagline: Philosophically driven with wide interests in STEM # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Portfolio and Blogging Site of L Eickhoff
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: # TBD
+avatar: /assets/img/pb_transparent.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
