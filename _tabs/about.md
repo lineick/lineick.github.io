@@ -52,4 +52,4 @@ Starting in October 2024, I will be a lecturer at the DHBW Stuttgart, teaching C
 
 <!-- I have a [CV](../assets/cv_linus_eickhoff.pdf) available. -->
 
-If you are interested in my work or anything else, feel free to contact me via [email](mailto:) or [LinkedIn](https://www.linkedin.com/in/linus-eickhoff/).
+If you are interested in my work or anything else, feel free to contact me via <!-- [email](mailto:) or--> [LinkedIn](https://www.linkedin.com/in/linus-eickhoff/).
