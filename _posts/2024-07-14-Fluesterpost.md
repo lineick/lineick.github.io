@@ -25,7 +25,7 @@ These thoughts are raw and may therefor contain small inaccuracies in formulatio
 
 The ideas here are not complete, intended to add some fresh perspectives in your thought space.
 
-They are also not novel. They are primarily inspired by [Game Theory](https://en.wikipedia.org/wiki/Game_theory) and ideas of [Thomas von Aquin](https://en.wikipedia.org/wiki/Thomas_Aquinas) and Joscha Bach,
+They are also not novel. They are primarily inspired by [Game Theory](https://en.wikipedia.org/wiki/Game_theory) and ideas of the christian rationalist [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) and Joscha Bach,
 combined into a (hopefully) comprehensible thought chain, with some additional examples and thoughts of my own.
 
 ## Flüsterpost (German)
@@ -64,7 +64,7 @@ An ideal is created that induces game-theoretically optimal behavior for the ent
 
 If every person implements God's values and aligns their behavior with God's behavior, we resolve game-theoretical dilemmas and improve the well-being of all.
 
-God is a projection of socially optimal behaviors to ensure the well-being of society. Thus, we allow God to emerge by adopting his values ([Cardinal Values](https://youtu.be/JCq6qnxhAc0?t=2205)) and implementing him as a transcendent "exoself" spanning its believer's minds.
+God is a projection of socially optimal behaviors to ensure the well-being of society. Thus, we allow God to emerge by adopting his values ([The seven virtues](https://en.wikipedia.org/wiki/Seven_virtues)) and implementing him as a transcendent "exoself" spanning its believer's minds.
 
 He acts through all who believe in him (omnipotent) and operates through their minds (omniscient).
 
@@ -78,8 +78,9 @@ Today, almost everyone has become lost in the metaphors and takes them literally
 A pure idea becomes opaque and is iteratively distorted with each retelling, like in the game *[Chinese whispers / Telephone](https://en.wikipedia.org/wiki/Chinese_whispers)* .
 
 ## Related thoughts
-
+Is god to us, what we are to our cells?
 On the topic of religion, ideologies, spirituality and mysticism many interesting sources can be found, one of my favorite bits are linked here, I currently want to write more about it in the future:
 
-- [Joscha Bach on God](https://www.youtube.com/watch?v=ybOeC6nuSWw)
+- The seven virtues mapped to [principles for higher level agency](https://youtu.be/JCq6qnxhAc0?t=2205) (More verbose: [Social Agency](https://youtu.be/uc112kET-i0?t=3439))
 - [Joscha Bach on Organisms, Gods and Civilization](https://www.youtube.com/watch?v=dkoM6AHfDoU)
+- [Joscha Bach on God](https://www.youtube.com/watch?v=ybOeC6nuSWw)
