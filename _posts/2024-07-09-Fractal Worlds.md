@@ -1,7 +1,7 @@
 ---
 title: Fractal Worlds
 date: 2024-07-09 22:37 +0200
-categories: [Math, Geometry]
+categories: [Explorations, Math]
 tags: [fractals, math, philosophy, art]     # TAG names should always be lowercase
 
 media_subpath: /assets/post_content/fractals/
