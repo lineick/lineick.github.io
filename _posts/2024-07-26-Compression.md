@@ -16,7 +16,7 @@ image:
 > Data compression is the process of encoding information using fewer bits than the original representation
 {: .prompt-info }
 
-With this article, I hope to offer some new perspectives on what perception is, what observing in general means, and why the process of compression is fundamental to self-sustaining systems, including us.
+With this article, I hope to offer some interesting perspectives on what perception is, what observing in general means, and why the process of compression is fundamental to self-sustaining systems, including us.
 I will touch on some tangents, including fractals, Cybernetics, Stephen Wolfram's Observer Theory, and Karl Friston's Free Energy Principle.
 
 ## How I Think of Compression and Information
