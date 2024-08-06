@@ -10,12 +10,15 @@ order: 4
 
 [releases]: https://github.com/Rripped/rripped.github.io/releases
 
-This site is a personal portfolio and blogging page of me (Linus Eickhoff), where I will showcase some projects and write about my interests.
+Hi! I'm Linus! :)
+
+This site is my personal portfolio and blogging page on which I will showcase some projects and write about my interests.
 
 # About me
 
-I am a grad student in computer science at the University of Stuttgart, Germany. My main focus in this field is **Data Science**, **Machine Learning** and **AI**.\
-Apart from university, I am passionate about **Philosophy of Mind**, Theories of **Consciousness** and the **nature of reality**.\
+I'm a 22 years old grad student studying Computer Science at the University of Stuttgart, Germany. My main focus lies on **Data Science**, **Machine Learning** and **AI**, but I am still exploring and getting a feel for various different fields.
+
+Apart from university, I am passionate about **Philosophy of Mind**, Theories of **Consciousness** and the **nature of reality**.
 To drop a few names, I strongly resonate with many ideas of **Joscha Bach** (Philosophy, Consciousness, AI), **Stephen Wolfram** (Wolfram Physics, Observer Theory) and **Michael Levin** (Self Organization, Cognitive Agents).
 
 <!-- I have a full [CV](../assets/cv_linus_eickhoff.pdf) available, otherwise the following gives a short overview. -->
@@ -52,4 +55,4 @@ Starting in October 2024, I will be a lecturer at the DHBW Stuttgart, teaching C
 
 <!-- I have a [CV](../assets/cv_linus_eickhoff.pdf) available. -->
 
-If you are interested in my work or anything else, feel free to contact me via <!-- [email](mailto:) or--> [LinkedIn](https://www.linkedin.com/in/linus-eickhoff/).
+If you are interested in my work, a more detailed CV or anything else, feel free to contact me via [mail](mailto: {{ site.social.email }}) or [LinkedIn](https://www.linkedin.com/in/linus-eickhoff/).
