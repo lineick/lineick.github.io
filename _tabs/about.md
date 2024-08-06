@@ -16,7 +16,7 @@ This site is my personal portfolio and blogging page on which I will showcase so
 
 # About me
 
-I'm a 22 years old grad student studying Computer Science at the University of Stuttgart, Germany. My main focus lies on **Data Science**, **Machine Learning** and **AI**, but I am still exploring and getting a feel for various different fields.
+I'm a 22-year-old grad student studying Computer Science at the University of Stuttgart, Germany. My main focus lies on **Data Science**, **Machine Learning** and **AI**, but I am still exploring and getting a feel for various different fields.
 
 Apart from university, I am passionate about **Philosophy of Mind**, Theories of **Consciousness** and the **nature of reality**.
 To drop a few names, I strongly resonate with many ideas of **Joscha Bach** (Philosophy, Consciousness, AI), **Stephen Wolfram** (Wolfram Physics, Observer Theory) and **Michael Levin** (Self Organization, Cognitive Agents).
