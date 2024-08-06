@@ -90,7 +90,7 @@ If all we do is compression through learning models of our environment (culminat
 Evolution is probably not a fundamental, but an emergent rule, a phenomenon of scarcity. Structures are self-sustaining by harvesting negentropy (exploiting order) from their environment.
 As order is a limited resource (only exists in pockets of reducibility), systems compete with each other, inhabiting and therefore blocking spacetime for other self-sustaining systems on their level of existence.
 
-On earth, we currently dominate most levels; our intelligence allowed us to build structure and harvest negentropy in regions where no other organism is able to compete.
+On earth, we currently dominate most levels of interest; our intelligence allowed us to build structure and harvest negentropy in regions where no other organism is able to compete.
 
 It is a universal law that entropy is increasing over time. As previously mentioned, it is a unidirectional phenomenon in time. On a low level, we build structure for species-homeostasis by harvesting structure somewhere else;
 it is a limited resource, decreasing over time.
