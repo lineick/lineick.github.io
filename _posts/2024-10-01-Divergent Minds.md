@@ -84,11 +84,11 @@ This missing ability to shut off irrelevant inputs in combination with missing i
 
 In the interpretation of Kegan's [stages of the Self](https://joscha.substack.com/p/levels-of-lucidity) by Joscha Bach, intelligent high-functioning autists seem to typically skip *stage 3 (Social Self)* first and go directly to *stage 4 (Rational Agency)*
 meaning that they tend to develop rationality and epistemic autonomy instead of intuitively adapting to social norms, thoughts and ideas first, which further feeds misunderstanding and exclusion, especially in childhood and youth.
-Incorporating *Stage 3, the social self* is done by understanding how others function in this world and what cues to actively look for:
+Incorporating *Stage 3, the Social Self* is done by understanding how others function in this world and what cues to actively look for:
 This process is not intuitive for autists and has to be learned by consciously discovering the underlying rules, allowing them to integrate better into society.
 
 On the upside, the missing input filter gives them an eye for details, in combination with high intelligence they might flourish in clear, logical environments. They tend to like order, rules, predictability as it feels controllable and thereby calming.
-Hyperfocus and Obsession on single, often highly idiosyncratic topics allows some to become exceptional in a specific field.
+Hyperfocus and obsession on single, often highly idiosyncratic topics allows some to become exceptional in a specific field.
 
 It makes sense that being good with details is advantageous in hard sciences as Occam's Razor minimizes unnecessary specification and all that is left is important and necessary for reasoning and understanding.
 
@@ -142,7 +142,7 @@ Somehow we have to get to an end here, but there is still much left. We did not 
 ...and there is so much more. One can't even start to imagine a world with 4-dimensional colors.
 Maybe one is able to remotely grasp the possible difference by comparing color-blind filter images to the real image.
 
-## Final Thoughts
+## Final thoughts
 We touched on many tangents and examples for differences in perception and thought with much still missing.
 We did not discuss how humans form models of the world, extracting and relating patterns from their senses, building representations for important
 features (sounds, colors, textures, feelings). We did not talk about the interesting idea of adding new senses to humans, as done with [Neuralink](https://www.youtube.com/watch?v=LfwzfP8cp3A) and co.
@@ -161,7 +161,7 @@ With alien minds so far from everything we can grasp, it remains an open questio
 
 Thanks for reading! :)
 
-## Further Resources
+## Further resources
 - Joscha Bach on the stages of the self, [The Stages of Lucidity](https://www.youtube.com/watch?v=nnMiDK2okIE)
 - Daniel Tammet, an autistic synesthesist on the beauty of numbers and more: [Lessons from an extraordinary mind](https://www.youtube.com/watch?v=aAJzQfALBXI)
 - A YouTube short about [Joel Krueger's interpretation of Schizophrenia](https://www.youtube.com/shorts/3dmLG2NMyfk) by Sisyphus55
