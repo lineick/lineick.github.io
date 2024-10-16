@@ -58,7 +58,7 @@ If you want to mantain an unbiased and rational perception and thought space, yo
 So far we looked into the dependence of thought and perception on believes, but there is also the factor of differing brain chemistry and brain structure. Everyone has different hardware; some think faster, some think slower, some think deeper, some think broader.
 Some are happy per default, others have less luck. Some experience traumata, some do not. So many factors... too much for one post.
 
-Their is a certain threshold in differing neurological function, where we call someone neurodivergent instead of neurotypical. Typical neurodivergence cases are Autism, Synesthesia, Schizophrenia and sometimes even Giftedness.
+There is a certain threshold in differing neurological function, where we call someone neurodivergent instead of neurotypical. Typical neurodivergence cases are Autism, Synesthesia, Schizophrenia and sometimes even Giftedness.
 
 I think especially Autism, Synesthesia and Schizophrenia are interesting conditions, where one can see how different people experience the same environment.
 
@@ -70,7 +70,7 @@ In general Autism lives on a spectrum, the social deficiencies can appear in man
 In combination with high intelligence autists can excel in specific environments with clear boundaries and processes, such as Mathematics, Computer Science, Physics and other hard sciences.
 
 Indeed, I encounter a noticeably increased amount of individuals with autistic traits in the field of Computer Science.
-It may be the clear rulesets in which computers operate and the missing obligation for social interaction in CS fields or the physical distance in interaction, that digital systems offer. There are many possible reasons.
+It may be the clear ruleset in which computers operate and the missing obligation for social interaction in CS fields or the physical distance in interaction, that digital systems offer. There are many possible reasons.
 
 When trying to grasp key differences in perception and thought of autists to neurotypical people one important trait is that autists are usually fastly overwhelmed by perceptual input, such as crowded places, loud noises, smells, felt textures and more.
 Per default, they lack the innate input filter of neurotypicals, ordering stimuli by relevance and getting rid of irrelevant background noise.
@@ -84,12 +84,13 @@ This missing ability to shut off irrelevant inputs in combination with missing i
 
 In the interpretation of Kegan's [stages of the Self](https://joscha.substack.com/p/levels-of-lucidity) by Joscha Bach, intelligent high-functioning autists (he calls them 'nerds') seem to typically skip *stage 3 (Social Self)* first and go directly to *stage 4 (Rational Agency)*
 meaning that they tend to develop rationality and epistemic autonomy instead of intuitively adapting to social norms, thoughts and ideas first, which further feeds misunderstanding and exclusion, especially in childhood and youth.
-Incorporating Stage 3, the social self is done by understanding how others function in this world and what cues to actively look for: This process is not intuitive for autists and has to be learned by consciously discovering the underlying rules, allowing them to integrate better into society.
+Incorporating *Stage 3, the social self* is done by understanding how others function in this world and what cues to actively look for:
+This process is not intuitive for autists and has to be learned by consciously discovering the underlying rules, allowing them to integrate better into society.
 
-On the upside, the missing input filter gives them an eye for details, in combination with high intelligence they might flourish in clear, logical environments. They tend to like order, rules, predictability as it feels calming or controllable.
+On the upside, the missing input filter gives them an eye for details, in combination with high intelligence they might flourish in clear, logical environments. They tend to like order, rules, predictability as it feels controllable and thereby calming.
 Hyperfocus and Obsession on single, often highly idiosyncratic topics allows some to become exceptional in a specific field.
 
-It makes sense that being good with details is advantageous in hard sciences as Occam's Razor minimizes unnecessary specification and all that is left over is important for reasoning and understanding.
+It makes sense that being good with details is advantageous in hard sciences as Occam's Razor minimizes unnecessary specification and all that is left is important and necessary for reasoning and understanding.
 
 #### A personal tangent
 In general, one can see how especially the math-heavy fields favor the ones with depth-first, rule-based, analytical thinking and can confuse creative, associative, breadth-first thinkers with [apophenic](https://en.wikipedia.org/wiki/Apophenia) tendencies.
