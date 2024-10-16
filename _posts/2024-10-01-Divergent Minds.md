@@ -82,7 +82,7 @@ _Autism: Perceiving without an input filter_
 
 This missing ability to shut off irrelevant inputs in combination with missing intuition for interpreting social cues, such as facial expressions, irony, sarcasm and other counter-factual behaviors impedes daily life with many necessary social interactions.
 
-In the interpretation of Kegan's [stages of the Self](https://joscha.substack.com/p/levels-of-lucidity) by Joscha Bach, intelligent high-functioning autists (he calls them 'nerds') seem to typically skip *stage 3 (Social Self)* first and go directly to *stage 4 (Rational Agency)*
+In the interpretation of Kegan's [stages of the Self](https://joscha.substack.com/p/levels-of-lucidity) by Joscha Bach, intelligent high-functioning autists seem to typically skip *stage 3 (Social Self)* first and go directly to *stage 4 (Rational Agency)*
 meaning that they tend to develop rationality and epistemic autonomy instead of intuitively adapting to social norms, thoughts and ideas first, which further feeds misunderstanding and exclusion, especially in childhood and youth.
 Incorporating *Stage 3, the social self* is done by understanding how others function in this world and what cues to actively look for:
 This process is not intuitive for autists and has to be learned by consciously discovering the underlying rules, allowing them to integrate better into society.
