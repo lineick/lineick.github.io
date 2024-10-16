@@ -43,13 +43,15 @@ At HPE I worked on a bunch of projects in different organizations, mainly focuse
 - The development of a **semantic search engine** for papers in my semester abroad at the [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html) in Milpitas, California.
 - The development of a **workload-analysis suite** at the [HLRS](https://www.hlrs.de/) in Stuttgart, featuring algorithms and visualizations to detect topologically-inefficient resource usage of jobs running on the supercomputer [HPE Apollo (HAWK)](https://www.hlrs.de/de/loesungen/systeme/hpe-apollo-hawk).
 
-### SPIRITFAKTUR (Jul 2024 - now)
+### SPIRITFAKTUR / evi (Jul 2024 - now)
 
 The startup [SPIRITFAKTUR](https://www.spiritfaktur.de/) is a small agency and investment fund, where I work on different projects, related to **Data Science** and **Machine Learning**, in part-time.
+I switched to the related startup [evi](https://www.elevatorintelligence.com/) (Elevator Intelligence) proceeding with my work, researching and building efficient AI-driven information extraction systems for text and image documents.
 
-### Lecturer at the DHBW Stuttgart (Starting Oct 2024)
+### Lecturer at the DHBW Stuttgart (Sep 2024 - now)
 
-Starting in October 2024, I will be a lecturer at the DHBW Stuttgart, teaching Computer Science Bachelor students in my **Explainable AI** (XAI) course.
+I am currently teaching Computer Science Bachelor students in my **Explainable AI** (XAI) course (3 ECTS).\\
+I structured and built the course content from the ground up, without previously existing material.
 
 ## Further Information
 
