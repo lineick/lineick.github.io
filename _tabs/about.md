@@ -48,10 +48,17 @@ At HPE I worked on a bunch of projects in different organizations, mainly focuse
 The startup [SPIRITFAKTUR](https://www.spiritfaktur.de/) is a small agency and investment fund, where I work on different projects, related to **Data Science** and **Machine Learning**, in part-time.
 I switched to the related startup [evi](https://www.elevatorintelligence.com/) (Elevator Intelligence) proceeding with my work, researching and building efficient AI-driven information extraction systems for text and image documents.
 
-### Lecturer at the DHBW Stuttgart (Sep 2024 - now)
+### Lecturer at the DHBW Stuttgart (Sep 2024 - Dez 2024)
 
-I am currently teaching Computer Science Bachelor students in my **Explainable AI** (XAI) course (3 ECTS).\\
+Teaching Computer Science Bachelor students in my **Explainable AI** (XAI) course (3 ECTS).
+The course introduced important foundations of ML and dimensionality reduction, many different models, interpretability methods for CNNs and Transformers, Anthropic [Research](https://transformer-circuits.pub/2022/toy_model/index.html) on [Mechanistic Interpretability](https://www.transformer-circuits.pub/2022/mech-interp-essay) and more.
+
 I structured and built the course content from the ground up, without previously existing material.
+
+### CERN (March 2025 - August 2025)
+
+In March 2025 I will start working in the [openlab](https://home.cern/science/computing/cern-openlab) team at CERN in Geneva, focusing on Machine Learning and [digital twins](https://en.wikipedia.org/wiki/Digital_twin).
+
 
 ## Further Information
 
