@@ -6,7 +6,7 @@ tags: [agent, universe, compression, observer, philosophy]     # TAG names shoul
 
 media_subpath: /assets/post_content/compression/
 
-pin: true
+pin: false
 math: true
 
 image:
