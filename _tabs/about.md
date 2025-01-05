@@ -35,18 +35,9 @@ To drop a few names, I strongly resonate with many ideas of **Joscha Bach** (Phi
 
 ## Work
 
-### Hewlett Packard Enterprise (Sep 2020 - Nov 2023)
+### CERN (March 2025 - August 2025)
 
-At HPE I worked on a bunch of projects in different organizations, mainly focused around **Data Science**, including...
-
-- An **analysis of trends, topics and behaviour** of a german online forum at [DXC Technology](https://dxc.com/)
-- The development of a **semantic search engine** for papers in my semester abroad at the [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html) in Milpitas, California.
-- The development of a **workload-analysis suite** at the [HLRS](https://www.hlrs.de/) in Stuttgart, featuring algorithms and visualizations to detect topologically-inefficient resource usage of jobs running on the supercomputer [HPE Apollo (HAWK)](https://www.hlrs.de/de/loesungen/systeme/hpe-apollo-hawk).
-
-### SPIRITFAKTUR / evi (Jul 2024 - now)
-
-The startup [SPIRITFAKTUR](https://www.spiritfaktur.de/) is a small agency and investment fund, where I work on different projects, related to **Data Science** and **Machine Learning**, in part-time.
-I switched to the related startup [evi](https://www.elevatorintelligence.com/) (Elevator Intelligence) proceeding with my work, researching and building efficient AI-driven information extraction systems for text and image documents.
+In March 2025 I will start working in the [openlab](https://home.cern/science/computing/cern-openlab) team at CERN in Geneva, focusing on Machine Learning and [digital twins](https://en.wikipedia.org/wiki/Digital_twin).
 
 ### Lecturer at the DHBW Stuttgart (Sep 2024 - Dez 2024)
 
@@ -55,10 +46,18 @@ The course introduced important foundations of ML and dimensionality reduction, 
 
 I structured and built the course content from the ground up, without previously existing material.
 
-### CERN (March 2025 - August 2025)
+### SPIRITFAKTUR / evi (Jul 2024 - now)
 
-In March 2025 I will start working in the [openlab](https://home.cern/science/computing/cern-openlab) team at CERN in Geneva, focusing on Machine Learning and [digital twins](https://en.wikipedia.org/wiki/Digital_twin).
+The startup [SPIRITFAKTUR](https://www.spiritfaktur.de/) is a small agency and investment fund, where I work on different projects, related to **Data Science** and **Machine Learning**, in part-time (just a few hours per week).
+I switched to the related startup [evi](https://www.elevatorintelligence.com/) (Elevator Intelligence) proceeding with my work, researching and building efficient AI-driven information extraction systems for text and image documents.
 
+### Hewlett Packard Enterprise (Sep 2020 - Nov 2023)
+
+At HPE I worked on a bunch of projects in different organizations, mainly focused around **Data Science**, including...
+
+- The development of a **workload-analysis suite** at the [HLRS](https://www.hlrs.de/) in Stuttgart, featuring algorithms and visualizations to detect topologically-inefficient resource usage of jobs running on the supercomputer [HPE Apollo (HAWK)](https://www.hlrs.de/de/loesungen/systeme/hpe-apollo-hawk).
+- The development of a **semantic search engine** for conference papers in my semester abroad at the [Hewlett Packard Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html) in Milpitas, California.
+- An **analysis of trends, topics and behaviour** of a big german online forum at [DXC Technology](https://dxc.com/).
 
 ## Further Information
 
