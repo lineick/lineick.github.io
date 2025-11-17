@@ -16,7 +16,7 @@ This site is my personal portfolio and blogging page on which I will showcase so
 
 # About me
 
-I'm a 22-year-old grad student studying Computer Science at the University of Stuttgart, Germany. My main focus lies on **Data Science**, **Machine Learning** and **AI**, but I am still exploring and getting a feel for various different fields.
+I'm a 23-year-old grad student studying Computer Science at the University of Stuttgart, Germany. My main focus lies on **Data Science**, **Machine Learning** and **AI**, but I am still exploring and getting a feel for various different fields.
 
 Apart from university, I am passionate about **Philosophy of Mind**, Theories of **Consciousness** and the **nature of reality**.
 To drop a few names, I strongly resonate with many ideas of **Joscha Bach** (Philosophy, Consciousness, AI), **Stephen Wolfram** (Wolfram Physics, Observer Theory) and **Michael Levin** (Self Organization, Cognitive Agents).
@@ -25,21 +25,27 @@ To drop a few names, I strongly resonate with many ideas of **Joscha Bach** (Phi
 
 ## Education
 
-**Baden-Wuerttemberg Cooperative State University (DHBW)**
-~ B.Sc. in Computer Science
-~ Stuttgart, Germany (Oct 2020 - Sep 2023)
-
 **University of Stuttgart**
 ~ M.Sc. in Computer Science
 ~ Stuttgart, Germany (Oct 2023 - now)
 
+**Baden-Wuerttemberg Cooperative State University (DHBW)**
+~ B.Sc. in Computer Science
+~ Stuttgart, Germany (Oct 2020 - Sep 2023)
+
 ## Work
+
+### CIMC (September 2025 - Now)
+
+I am currently researching self-organizing systems, designing diverse Neural Cellular Automata (NCA) architectures at the [California Institute for Machine Consciousness](https://cimc.ai).
+The goal is to build a decomposable hierarchical self organizing model that can be used to study learning in self-organizing systems and test the hypothesis that consciousness is a learning algorithm for self-organized systems.
+Check out my project page [here](https://cimc.ai/#research/?projectId=2).
 
 ### CERN (March 2025 - August 2025)
 
-In March 2025 I will start working in the [openlab](https://home.cern/science/computing/cern-openlab) team at CERN in Geneva, focusing on Machine Learning and [digital twins](https://en.wikipedia.org/wiki/Digital_twin).
+This summer, I was working in the [openlab](https://home.cern/science/computing/cern-openlab) team at CERN in Geneva, focusing on Machine Learning and [digital twins](https://en.wikipedia.org/wiki/Digital_twin), building a library for large-scale scientific ML simulations on HPC. I learned a lot about distributed machine learning during this time.
 
-### Lecturer at the DHBW Stuttgart (Sep 2024 - Dez 2024)
+### Lecturer at the DHBW Stuttgart (Sep 2024 - Dez 2025)
 
 Teaching Computer Science Bachelor students in my **Explainable AI** (XAI) course (3 ECTS).
 The course introduced important foundations of ML and dimensionality reduction, many different models, interpretability methods for CNNs and Transformers, Anthropic [Research](https://transformer-circuits.pub/2022/toy_model/index.html) on [Mechanistic Interpretability](https://www.transformer-circuits.pub/2022/mech-interp-essay) and more.
