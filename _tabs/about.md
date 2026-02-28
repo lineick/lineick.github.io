@@ -52,7 +52,7 @@ The course introduced important foundations of ML and dimensionality reduction, 
 
 I structured and built the course content from the ground up, without previously existing material.
 
-### SPIRITFAKTUR / evi (Jul 2024 - now)
+### SPIRITFAKTUR / evi (Jul 2024 - Feb 2025)
 
 The startup [SPIRITFAKTUR](https://www.spiritfaktur.de/) is a small agency and investment fund, where I work on different projects, related to **Data Science** and **Machine Learning**, in part-time (just a few hours per week).
 I switched to the related startup [evi](https://www.elevatorintelligence.com/) (Elevator Intelligence) proceeding with my work, researching and building efficient AI-driven information extraction systems for text and image documents.
