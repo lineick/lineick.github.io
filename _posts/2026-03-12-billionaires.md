@@ -14,8 +14,10 @@ image:
   path: musk.png
 ---
 
-> This post is about billionaires. Pretty much every left student I encounter hates them and many claim they should not exist and we should make sure they don't. I do not think this is a defensible position. This post is pretty opinionated and
-thereby way more attackable than my other posts. Please do so, this is just a draft of my current observations, subject to change and drift. Yes, it has contrarian motivations too.
+_Image source: Britta Pedersen-Pool/Getty Images_
+
+> This post is about billionaires. Pretty much every left student I encounter hates them and many claim they should not exist and we should make sure they don't. I do not think this is a very reasonable position.
+This post is pretty opinionated and thereby way more attackable than my other posts. Please do so, this is just a draft of my current observations, subject to change and drift. Yes, it has contrarian motivations too.
 {: .prompt-info }
 
 "Billionaires should not exist".
