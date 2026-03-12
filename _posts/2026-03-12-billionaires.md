@@ -111,8 +111,8 @@ The networth making someone a billionaire is not an empty husk, it is actually r
 Yes, evaluations and markets work via believed and projected value, not the actual value, but long-term these converge and networths in the billions often have real underlying value ([WeWork and Theranos](https://www.nasdaq.com/articles/what-we-can-learn-from-the-theranos-and-wework-stories) exist, but they are spectacular failures, not the median).
 Of course there are parasites too and ways to gain billions in short time without delivering. These opportunities exist now more than ever. But still for the majority of super-rich an underlying value exists and no matter how we try to reduce their networth we can not really cap it without making the situation worse.
 Yes tax the rich, but only to the degree that your state is competitive enough to ensure the taxing will not lead to the billionaires leaving and removing workplaces.
-See the current [discussion](https://www.latimes.com/politics/story/2026-03-10/poison-pill-effort-to-cancel-proposed-billionaire-tax-hits-voters-mailboxes) of California's Billionaire Tax:
-Tragically, the sole discussion about the tax, which is proposed to act retroactively, leads to many super rich already planning to, or already leaving California, worsening the situation instead of improving it.
+See the current [discussion](https://www.ntu.org/foundation/detail/california-wealth-tax-proposal-achieves-a-new-feat-in-tax-policy-losing-the-state-money-before-it-even-becomes-law) of California's Billionaire Tax:
+Tragically, the sole discussion about the tax, which is proposed to act retroactively, leads to many super rich already planning to, or already [leaving](https://www.latimes.com/entertainment-arts/business/story/2026-03-11/inside-exodus-of-california-tech-billionaires-to-florida) California, worsening the situation instead of improving it.
 
 In the end the existence of the ultra-rich and powerful is scary and hopefully we will come up with better systems in the future to improve their alignment with humanity as a whole.
 Solving this is correlated with solving AGI alignment so the next years might yield new ideas.
