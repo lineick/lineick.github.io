@@ -13,8 +13,7 @@ math: false
 image:
   path: musk.png
 ---
-
-_Image source: Britta Pedersen-Pool/Getty Images_
+_Banner source: Britta Pedersen-Pool/Getty Images_
 
 > This post is about billionaires. Pretty much every left student I encounter hates them and many claim they should not exist and we should make sure they don't. I do not think this is a very reasonable position.
 This post is pretty opinionated and thereby way more attackable than my other posts. Please do so, this is just a draft of my current observations, subject to change and drift. Yes, it has contrarian motivations too.
@@ -28,7 +27,7 @@ nerd is too autistic to let it pass. But someone has to clarify it:
 
 The existence of the ultra-rich is not a problem but the consequence of the best solution for improving human prosperity.
 
-## How the game is played
+## Playing the game
 
 Why do some people get ultra-rich in capitalism? They are good at playing the game, the free market.
 There are other ways to get rich: ruling over countries and the economy, parasitically taking a big share of what is meant for the public.
@@ -69,11 +68,11 @@ In prediction markets you bet on the outcome of reallife events, e.g. sports, el
 The resolution of a bet has to rely on some authority or consensus mechanism, determining what factually happened.
 [Polymarket](https://polymarket.com/) uses the [UMA Optimistic Oracle](https://docs.uma.xyz/protocol-overview/how-does-umas-oracle-work) which tries to approximate truth by letting UMA token holders vote with their staked UMA tokens (money) based on 
 rules that were agreed upon. The UMA tokens staked on the majority will get returned (plus reward), while the other positions will get slashed. You can dispute etc. but
-there is the problem of UMA whales manipulating outcomes with a majority either way.
+there exists the problem of UMA whales manipulating outcomes with a majority either way.
 
 In our free market we have an analogous but more resilient problem: that products do not need to be good for the customer, they just need to buy or engage with them.
 Cigarettes are clearly not good for the customer, but addiction traps you. In short-term the market does not care about helpfulness or goodness, but on the long run
-the signal of negative impact will either correct the market to improve customer satisfaction, or spiral down until the market destroys itself (which has never happened fully, though crises like [1929](https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929) or [2008](https://en.wikipedia.org/wiki/2008_financial_crisis) show it can come close and AGI may make the free market idea obsolete).
+the signal of negative impact will either correct the market to improve customer satisfaction, or spiral down until the market destroys itself (which has never happened fully, though crises like [1929](https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929) or [2008](https://en.wikipedia.org/wiki/2008_financial_crisis) show it can come close and AGI may destroy the free market anyway).
 People have a voice and feedback is fast these days, improving market alignment with humanity in the long run.
 
 
