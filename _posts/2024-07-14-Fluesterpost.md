@@ -3,6 +3,7 @@ title: Flüsterpost
 date: 2024-07-14 22:07 +0200
 categories: [Thoughts, Religion]
 tags: [religion, game theory, philosophy]     # TAG names should always be lowercase
+robots: noindex
 
 media_subpath: /assets/post_content/religion/
 
